@@ -73,3 +73,7 @@ h4.callbox {
     text-align: center;
     margin-top:10px;
 }
+
+div.footer {
+    height: 50px;
+}
