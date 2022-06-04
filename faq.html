@@ -1,0 +1,15 @@
+---
+permalink: "/faq"
+layout: "main"
+title: "faq"
+---
+<div class="w-75 mx-auto mt-5">
+<h2>Questions</h2>
+
+{% for pair in site.data.questions %}
+    <div class="qa-pair">
+        <h5 class="question fw-semibold">{{ pair.question }}</h5>
+        <p class="answer">{{ pair.answer }}</p>
+    </div>
+{% endfor %}
+</div>
