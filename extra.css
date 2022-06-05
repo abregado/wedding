@@ -77,3 +77,7 @@ h4.callbox {
 div.footer {
     height: 50px;
 }
+
+div.lang-nav {
+    margin-left: 5px;
+}

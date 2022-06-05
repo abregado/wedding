@@ -1,0 +1,18 @@
+<div class="btn-group lang-nav" role="group">
+        {% capture enlink %}
+                /e/{{ page.title }}
+        {% endcapture %}
+        {% capture delink %}
+                /d/{{ page.title }}
+        {% endcapture %}
+    {% if page.lang == "en" %}
+        <a type="button" class="btn btn-primary active">en</a>
+    {% else %}
+        <a href={{ enlink }} type="button" class="btn btn-primary">en</a>
+    {% endif %}
+    {% if page.lang == "de" %}
+        <a type="button" class="btn btn-primary active">de</a>
+    {% else %}
+        <a href={{ delink }} type="button" class="btn btn-primary">de</a>
+    {% endif %}
+</div>

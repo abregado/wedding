@@ -1,45 +1,75 @@
 -
   question: "Is this a wedding?"
   answer: "No, the celebration will be more akin to a BBQ or garden party."
+  question-d: "Geht's um eine Hochzeitsfeier?"
+  answer-d: "Nein, unsere Party ist eher mit einem Barbeque oder eine Gartenparty vergleichbar."
 -
   question: "Really?! No ceremony or anything?"
   answer: "Indeed, we just want to celebrate with you."
--
-  question: "Can I bring a gift?"
-  answer: "Short answer: No. <br> Long answer: See the gifting section."
--
-  question: "Will there be food?"
-  answer: "Yes, there will be food, either catered or BYO bbq style. Details to come."
--
-  question: "Are children welcome?"
-  answer: "Of course!"
--
-  question: "How many people are you inviting?"
-  answer: "At last count there are 80 people, plus children on the invite list."
--
-  question: "How many people do you expect to come?"
-  answer: "We are expecting around 40 guests at the event, plus children."
--
-  question: "Can we play some of those super embarrassing traditional wedding games?"
-  answer: "No... and we mean No."
--
-  question: "So no games?"
-  answer: "Boardgames are welcome. We will probably have some frisbees and garden games on site."
--
-  question: "What is the dress code?"
-  answer: "Casual, it's not a wedding, remember?"
--
-  question: "Where is the venue?"
-  answer: "That is still undecided, but when it is, this site will be updated and you will be contacted."
--
-  question: "Hotel recommendations?"
-  answer: "We live in the suburb of Niederursel (60439), something near there would be a good idea."
+  question-d: "Wirklich?! Keine Trauung oder sowas?"
+  answer-d: "Jupp, wir wollen wirklich nur mit euch feiern und eine schöne Zeit haben."
 -
   question: "Will you be married before the party?"
   answer: "Maybe. It depends on the speed of bureaucracy."
+  question-d: "Werdet ihr vor der Party heiraten?"
+  answer-d: "Vielleicht. Das kommt ganz auf die allmächtige Bürokratie an."
+-
+  question: "Can I bring a gift?"
+  answer: "Short answer: No. <br> Long answer: See the gifting section."
+  question-d: "Kann ich ein Geschenk mitbringen?"
+  answer-d: "Kurzantwort: Nein. <br> Längere Antwort: Siehe den Tab Geschenke."
+-
+  question: "Will there be food?"
+  answer: "Yes, there will be food, either catered or BYO bbq style. Details to come."
+  question-d: "Wird es Essen geben?"
+  answer-d: "Ja, es wird Essen geben, entweder mit Catering oder als BYO-Grillparty. Details werden noch bekannt gegeben."
+-
+  question: "Are children welcome?"
+  answer: "Of course!"
+  question-d: "Können auch Kinder kommen?"
+  answer-d: "Selbstverständlich!"
+-
+  question: "How many people are you inviting?"
+  answer: "At last count there are 80 people, plus children on the invite list."
+  question-d: "Wie viele Gäste werdet ihr einladen?"
+  answer-d: "Nach der letzten Zählung stehen ca. 80 Personen plus Kinder auf der Liste."
+-
+  question: "How many people do you expect to come?"
+  answer: "We are expecting around 60 guests at the event, plus children."
+  question-d: "Und wie viele Leute werden voraussichtlich kommen?"
+  answer-d: "Wir erwarten etwa 60 Gäste plus Kinder zu der Party."
+-
+  question: "Can we play some of those super embarrassing traditional wedding games?"
+  answer: "No... and we mean No."
+  question-d: "Können wir ein paar dieser superpeinlichen traditionellen Hochzeitsspiele spielen?"
+  answer-d: "Nein... und wir meinen Nein."
+-
+  question: "So no games?"
+  answer: "Boardgames are welcome. We will probably have some frisbees and garden games on site."
+  question-d: "Also keine Spiele?"
+  answer-d: "Gesellschaftsspiele sind willkommen. Wir werden wahrscheinlich auch einige Frisbees und Gartenspiele vor Ort haben."
+-
+  question: "What is the dress code?"
+  answer: "Casual, it's not a wedding, remember?"
+  question-d: "Wie lautet die Kleiderordnung?"
+  answer-d: "Casual/locker, es ist keine Hochzeitsfeier, schon vergessen?"
+-
+  question: "Where is the venue?"
+  answer: "That is still undecided, but when it is, this site will be updated and you will be contacted."
+  question-d: "Wo soll die Party stattfinden?"
+  answer-d: "Das ist noch nicht entschieden, aber wenn es soweit ist, wird diese Seite aktualisiert und wir geben euch Bescheid."
+-
+  question: "Hotel recommendations?"
+  answer: "We live in the suburb of Niederursel (60439), something near there would be a good idea."
+  question-d: "Gibt es Hotelempfehlungen?"
+  answer-d: "Wir wohnen im Ortsteil Niederursel (60439). Etwas in der Nähe wäre eine gute Idee."
 -
   question: "What type of transport is best in Frankfurt?"
   answer: "Our public transport is great and we would recommend it."
+  question-d: "Wie komme ich in Frankfurt am besten herum?"
+  answer-d: "Unser öffentlicher Nahverkehr ist großartig und wir können ihn nur empfehlen."
 -
   question: "I have more questions, what do I do?"
   answer: "Contact us! We are looking forward to helping."
+  question-d: "Ich habe noch mehr Fragen, was soll ich tun?"
+  answer-d: "Meldet euch bei uns! Wir freuen uns darauf, euch zu helfen."
