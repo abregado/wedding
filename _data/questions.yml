@@ -19,6 +19,11 @@
   question-d: "Kann ich ein Geschenk mitbringen?"
   answer-d: "Kurzantwort: Nein. <br> Längere Antwort: Siehe den Tab Geschenke."
 -
+  question: "What time will the party start?"
+  answer: "We are not sure yet, but sometime around lunch."
+  question-d: "Wann geht's los?"
+  answer-d: "Wir wissen es noch nicht. Voraussichtlich mittags."
+-
   question: "Will there be food?"
   answer: "Yes, there will be food, either catered or BYO bbq style. Details to come."
   question-d: "Wird es Essen geben?"
