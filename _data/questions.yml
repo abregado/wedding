@@ -1,8 +1,8 @@
 -
   question: "Is this a wedding?"
-  answer: "No, the celebration will be more akin to a BBQ or garden party."
+  answer: "No, the celebration will be more like a picnic in the park."
   question-d: "Geht's um eine Hochzeitsfeier?"
-  answer-d: "Nein, unsere Party ist eher mit einem Barbeque oder eine Gartenparty vergleichbar."
+  answer-d: "Nein, unsere Party ist eher mit einem Picnic im Park vergleichbar."
 -
   question: "Really?! No ceremony or anything?"
   answer: "Indeed, we just want to celebrate with you."
@@ -10,9 +10,9 @@
   answer-d: "Jupp, wir wollen wirklich nur mit euch feiern und eine schöne Zeit haben."
 -
   question: "Will you be married before the party?"
-  answer: "Maybe. It depends on the speed of bureaucracy."
+  answer: "Yep. The great bureaucracy has decided to allow it."
   question-d: "Werdet ihr vor der Party heiraten?"
-  answer-d: "Vielleicht. Das kommt ganz auf die allmächtige Bürokratie an."
+  answer-d: "Jupp. Die allmächtige Bürokratie hat entschieden es zu erlauben."
 -
   question: "Can I bring a gift?"
   answer: "Short answer: No. <br> Long answer: See the gifting section."
@@ -20,14 +20,14 @@
   answer-d: "Kurzantwort: Nein. <br> Längere Antwort: Siehe den Tab Geschenke."
 -
   question: "What time will the party start?"
-  answer: "We are not sure yet, but sometime around lunch."
+  answer: "September 17th, at 1pm."
   question-d: "Wann geht's los?"
-  answer-d: "Wir wissen es noch nicht. Voraussichtlich mittags."
+  answer-d: "17. September ab 13 Uhr."
 -
   question: "Will there be food?"
-  answer: "Yes, there will be food, either catered or BYO bbq style. Details to come."
+  answer: "Yes, we have decided for a catered picnic party. But feel free to bring something yummy as well."
   question-d: "Wird es Essen geben?"
-  answer-d: "Ja, es wird Essen geben, entweder mit Catering oder als BYO-Grillparty. Details werden noch bekannt gegeben."
+  answer-d: "Ja, wir haben uns für einen Catering-Service für Picknicks entschieden. Aber bringt sehr gern auch selbst ein paar Leckereien mit."
 -
   question: "Are children welcome?"
   answer: "Of course!"
@@ -60,9 +60,9 @@
   answer-d: "Casual/locker, es ist keine Hochzeitsfeier, schon vergessen?"
 -
   question: "Where is the venue?"
-  answer: "That is still undecided, but when it is, this site will be updated and you will be contacted."
+  answer: "Mainzer Stadtpark, in the city of Mainz (and not Frankfurt)."
   question-d: "Wo soll die Party stattfinden?"
-  answer-d: "Das ist noch nicht entschieden, aber wenn es soweit ist, wird diese Seite aktualisiert und wir geben euch Bescheid."
+  answer-d: "Im Mainzer Stadtpark (... in Mainz und nicht Frankfurt)."
 -
   question: "Hotel recommendations?"
   answer: "We live in the suburb of Niederursel (60439), something near there would be a good idea."
@@ -70,9 +70,9 @@
   answer-d: "Wir wohnen im Ortsteil Niederursel (60439). Etwas in der Nähe wäre eine gute Idee."
 -
   question: "What type of transport is best in Frankfurt?"
-  answer: "Our public transport is great and we would recommend it."
+  answer: "Our public transport is great and we would recommend it. You can reach the party using the S6 or S8 from Frankfurt."
   question-d: "Sollten wir am besten mit dem Auto anreisen?"
-  answer-d: "Nicht unbedingt. Unser öffentlicher Nahverkehr ist großartig und wir können ihn nur empfehlen."
+  answer-d: "Nicht unbedingt. Unser öffentlicher Nahverkehr ist großartig und wir können ihn nur empfehlen. Ihr erreicht den Stadtpark mit der S6 oder S8 von der Frankfurter Innenstadt aus."
 -
   question: "I have more questions, what do I do?"
   answer: "Contact us! We are looking forward to helping."

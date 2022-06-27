@@ -5,6 +5,12 @@
         <a class="nav-link" aria-current="page" href="/d/home">Home</a>
     {% endif %}
 
+    {% if page.title == "party" %}
+    <a class="nav-link active" aria-current="page" href="/d/party">Party</a>
+    {% else %}
+    <a class="nav-link" aria-current="page" href="/d/party">Party</a>
+    {% endif %}
+
     {% if page.title == "faq" %}
         <a class="nav-link active" aria-current="page" href="/d/faq">FAQ</a>
     {% else %}
@@ -18,9 +24,9 @@
     {% endif %}
 
     {% if page.title == "rsvp" %}
-        <a class="nav-link active" aria-current="page" href="/d/rsvp">RSVP</a>
+        <a class="nav-link active" aria-current="page" href="/d/rsvp">Dabei?</a>
     {% else %}
-        <a class="nav-link" aria-current="page" href="/d/rsvp">RSVP</a>
+        <a class="nav-link" aria-current="page" href="/d/rsvp">Dabei?</a>
     {% endif %}
 
     {% include lang-nav.html %}
