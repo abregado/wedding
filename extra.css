@@ -4,6 +4,12 @@ p.danger {
     padding: 15px;
 }
 
+p.success {
+    background-color: #d1e7dd;
+    border-left: 5px solid #0f5132;
+    padding: 15px;
+}
+
 .image-badge {
     background-color: antiquewhite;
     color: black;
