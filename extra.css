@@ -8,6 +8,19 @@ img.img-fluid {
     margin-bottom: 10px;
 }
 
+h1.photo {
+    text-align: center;
+}
+
+h2.photo {
+    text-align: center;
+}
+
+a.photo {
+    text-align: center;
+    display: block;
+}
+
 p.success {
     background-color: #d1e7dd;
     border-left: 5px solid #0f5132;
